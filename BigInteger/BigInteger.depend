@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1551759699 source:e:\密码学\biginteger\add.cpp
+	"BigInteger.h"
+
+1551776687 e:\密码学\biginteger\biginteger.h
+	<bits/stdc++.h>
+
+1551777061 source:e:\密码学\biginteger\main.cpp
+	"BigInteger.h"
+
+1551753921 source:e:\密码学\biginteger\ten_to_bi.cpp
+	"BigInteger.h"
+
+1551763599 source:e:\密码学\biginteger\compare.cpp
+	"BigInteger.h"
+
+1551771130 source:e:\密码学\biginteger\sub.cpp
+	"BigInteger.h"
+
+1551778017 source:e:\密码学\biginteger\mul.cpp
+	"BigInteger.h"
+
+1551777347 source:e:\密码学\biginteger\div.cpp
+	"BigInteger.h"
+
+1551759700 source:d:\课程设计\密码学课程设计\大整数包10进制\biginteger\add.cpp
+	"BigInteger.h"
+
+1551794390 d:\课程设计\密码学课程设计\大整数包10进制\biginteger\biginteger.h
+	<bits/stdc++.h>
+
+1551784320 source:d:\课程设计\密码学课程设计\大整数包10进制\biginteger\compare.cpp
+	"BigInteger.h"
+
+1551787197 source:d:\课程设计\密码学课程设计\大整数包10进制\biginteger\div.cpp
+	"BigInteger.h"
+
+1551794390 source:d:\课程设计\密码学课程设计\大整数包10进制\biginteger\mul.cpp
+	"BigInteger.h"
+
+1551771132 source:d:\课程设计\密码学课程设计\大整数包10进制\biginteger\sub.cpp
+	"BigInteger.h"
+
+1551753922 source:d:\课程设计\密码学课程设计\大整数包10进制\biginteger\ten_to_bi.cpp
+	"BigInteger.h"
+
+1551794390 source:d:\课程设计\密码学课程设计\大整数包10进制\biginteger\main.cpp
+	"BigInteger.h"
+
+1551787418 source:d:\课程设计\密码学课程设计\大整数包10进制\biginteger\mod.cpp
+	"BigInteger.h"
+
+1551788293 source:d:\课程设计\密码学课程设计\大整数包10进制\biginteger\gcd.cpp
+	"BigInteger.h"
+
+1551790162 source:d:\课程设计\密码学课程设计\大整数包10进制\biginteger\pow_mod.cpp
+	"BigInteger.h"
+
+1551795618 source:d:\课程设计\密码学课程设计\大整数包10进制\biginteger\inverse.cpp
+	"BigInteger.h"
+
