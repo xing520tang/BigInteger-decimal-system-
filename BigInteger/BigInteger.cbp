@@ -33,6 +33,7 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="BigInteger.h" />
+		<Unit filename="Miller-Rabin.cpp" />
 		<Unit filename="add.cpp" />
 		<Unit filename="compare.cpp" />
 		<Unit filename="div.cpp" />

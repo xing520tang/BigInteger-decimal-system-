@@ -20,6 +20,7 @@ void mod(const BigInt &a , const BigInt &b ,BigInt &ans);
 void gcd(const BigInt &a ,const BigInt &b ,BigInt &ans);
 void pow_mod(const BigInt &A ,const BigInt &B ,const BigInt &M ,BigInt &ans);
 void inverse(const BigInt &a ,const BigInt &b ,BigInt &ans);
+bool Miller_Rabin(const BigInt n);//检测n是否为素数（采用miller—rabin素性检测）
 
 bool is_zero(const BigInt &a);
 void ten_to_bi(const char *s ,BigInt &p);

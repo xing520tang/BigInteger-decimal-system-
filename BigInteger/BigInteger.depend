@@ -59,3 +59,42 @@
 1551795618 source:d:\课程设计\密码学课程设计\大整数包10进制\biginteger\inverse.cpp
 	"BigInteger.h"
 
+1551759700 source:e:\密码学\biginteger（10进制）\add.cpp
+	"BigInteger.h"
+
+1551834193 e:\密码学\biginteger（10进制）\biginteger.h
+	<bits/stdc++.h>
+
+1551784322 source:e:\密码学\biginteger（10进制）\compare.cpp
+	"BigInteger.h"
+
+1551787198 source:e:\密码学\biginteger（10进制）\div.cpp
+	"BigInteger.h"
+
+1551788294 source:e:\密码学\biginteger（10进制）\gcd.cpp
+	"BigInteger.h"
+
+1551833517 source:e:\密码学\biginteger（10进制）\inverse.cpp
+	"BigInteger.h"
+
+1551787420 source:e:\密码学\biginteger（10进制）\mod.cpp
+	"BigInteger.h"
+
+1551794392 source:e:\密码学\biginteger（10进制）\mul.cpp
+	"BigInteger.h"
+
+1551790164 source:e:\密码学\biginteger（10进制）\pow_mod.cpp
+	"BigInteger.h"
+
+1551771132 source:e:\密码学\biginteger（10进制）\sub.cpp
+	"BigInteger.h"
+
+1551753922 source:e:\密码学\biginteger（10进制）\ten_to_bi.cpp
+	"BigInteger.h"
+
+1551836262 source:e:\密码学\biginteger（10进制）\main.cpp
+	"BigInteger.h"
+
+1551836333 source:e:\密码学\biginteger（10进制）\miller-rabin.cpp
+	"BigInteger.h"
+

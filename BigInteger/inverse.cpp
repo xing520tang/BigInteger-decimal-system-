@@ -22,8 +22,6 @@ void inverse(const BigInt &a ,const BigInt &b ,BigInt &ans)
 {
     BigInt y;
     extend_gcd(a,b,ans,y);
-    printf("gcd:");
-    print(GCD);
     if(GCD.len==1 && GCD.sig && GCD.num[0]==1)
     {
         if(! ans.sig)//若乘法逆小于0，则加上模数
