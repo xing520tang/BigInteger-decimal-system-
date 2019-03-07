@@ -9,7 +9,13 @@ void print(BigInt &p)//打印大整数
 }
 int main()
 {
-    freopen("d:bigPrimes.txt" ,"r" ,stdin);
+    srand((unsigned)time(NULL));
+    freopen("e:bigPrimes.txt" ,"w" ,stdout);
+    BigInt ans;
+    generate_prime(ans ,TEN_LEN_1024);
+    print(ans);
+ /*
+    freopen("e:bigPrimes.txt" ,"r" ,stdin);
     srand((unsigned)time(NULL));
     BigInt a ,b ,ans ,temp ,temp1;
     fuzhi1(temp1);//temp1 = 1
@@ -18,7 +24,7 @@ int main()
     {
         ten_to_bi(A ,a);
         ten_to_bi(B ,b);
-        /*
+
 
         printf("A:");
         print(a);
@@ -57,7 +63,7 @@ int main()
         inverse(a,b,ans);
         printf("INVERSE:");//乘法逆
         print(ans);
-        */
+
         printf("%s",A);
         printf(Miller_Rabin(a) ? "\n有可能是素数\n" : "\n不是素数\n");
         printf("*******************\n");
@@ -65,7 +71,7 @@ int main()
         printf(Miller_Rabin(b) ? "\n有可能是素数\n" : "\n不是素数\n");
 
         printf("*******************\n");
-    }
+    }*/
 
     return 0;
 }

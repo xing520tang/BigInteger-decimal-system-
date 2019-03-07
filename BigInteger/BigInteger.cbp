@@ -38,6 +38,8 @@
 		<Unit filename="compare.cpp" />
 		<Unit filename="div.cpp" />
 		<Unit filename="gcd.cpp" />
+		<Unit filename="generate_num.cpp" />
+		<Unit filename="generate_prime.cpp" />
 		<Unit filename="inverse.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="mod.cpp" />
